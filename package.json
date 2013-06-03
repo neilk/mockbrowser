@@ -1,0 +1,25 @@
+{
+  "name": "mockbrowser",
+  "description": "Mocks out some elements of the JavaScript environment in browsers. Useful for testing or hacking a client-side library into a node.js project.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Neil Kandalgaonkar",
+    "email": "neilk@neilk.net",
+    "url": "http://neilk.net/"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://github.com/neilk/mockbrowser/raw/master/LICENSE.txt"
+  },
+  "main": "lib/mockbrowser.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/neilk/mockbrowser.git"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
